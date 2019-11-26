@@ -1,0 +1,148 @@
+0000.002 (0) Opened log file at time: Mon, 18 Nov 2019 15:54:04 +0000 on http://localhost/jobknob
+0000.439 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.20 WP: 5.2.4 PHP: 7.1.30 (apache2handler, Windows NT DESKTOP-3K7KIHK 10.0 build 17763 (Windows 10) AMD64) MySQL: 8.0.13-4 WPLANG: en_US Server: Apache/2.4.39 (Win64) OpenSSL/1.0.2s PHP/7.1.30 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 32M | 8M) multisite: N openssl: OpenSSL 1.0.2r  26 Feb 2019 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.592 (0) Free space on disk containing Updraft's temporary directory: 10303.9 MB
+0001.254 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0001.539 (0) Semaphore (fd, jk_options) being initialised
+0002.256 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0002.913 (0) Set semaphore last lock (fd) time to 2019-11-18 15:54:07
+0003.071 (0) Semaphore lock (fd) complete
+0004.144 (0) Backup run: resumption=0, nonce=cc03d951d027, file_nonce=cc03d951d027 begun at=1574092444 (4s ago), job type=backup
+0004.509 (0) Scheduling a resumption (1) after 300 seconds (1574092749) in case this run gets aborted
+0005.106 (0) Checking if we have a zip executable available
+0005.402 (0) Creation of backups of directories: beginning
+0005.877 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0010.885 (0) Total entities for the zip file: 210 directories, 1372 files (0 skipped as non-modified), 22.9 MB
+0011.093 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0012.014 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip.tmp: 100 files added (on-disk size: 39.2 KB)
+0012.409 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip.tmp: 200 files added (on-disk size: 39.2 KB)
+0012.814 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip.tmp: 300 files added (on-disk size: 39.2 KB)
+0013.214 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip.tmp: 400 files added (on-disk size: 39.2 KB)
+0013.633 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip.tmp: 500 files added (on-disk size: 39.2 KB)
+0013.804 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (19.1 MB, 1372 files batched, 501 (502) added so far); re-opening (prior size: 39.2 KB)
+0018.403 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip.tmp: 600 files added (on-disk size: 5456.7 KB)
+0018.824 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip.tmp: 700 files added (on-disk size: 5456.7 KB)
+0019.237 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip.tmp: 800 files added (on-disk size: 5456.7 KB)
+0019.643 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip.tmp: 900 files added (on-disk size: 5456.7 KB)
+0020.044 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip.tmp: 1000 files added (on-disk size: 5456.7 KB)
+0020.231 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.8 MB, 1372 files batched, 501 (1003) added so far); re-opening (prior size: 5456.7 KB)
+0022.439 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip.tmp: 1100 files added (on-disk size: 6162.7 KB)
+0022.874 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip.tmp: 1200 files added (on-disk size: 6162.7 KB)
+0023.299 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip.tmp: 1300 files added (on-disk size: 6162.7 KB)
+0025.368 (0) Created plugins zip (0) - 6790.8 KB in 19.3 s (351.4 KB/s) (sha1: 49409f6d1acb551239829194d18eb7069e0efd49, sha256: 8672f249419c5418da62fe9bbb6631a4984634a4884b4999842a351e8841e5b4)
+0025.688 (0) Beginning creation of dump of themes (split every: 400 MB)
+0029.634 (0) Total entities for the zip file: 185 directories, 930 files (0 skipped as non-modified), 34.4 MB
+0029.795 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0030.424 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-themes.zip.tmp: 100 files added (on-disk size: 32.1 KB)
+0030.879 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-themes.zip.tmp: 200 files added (on-disk size: 32.1 KB)
+0031.293 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-themes.zip.tmp: 300 files added (on-disk size: 32.1 KB)
+0031.705 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-themes.zip.tmp: 400 files added (on-disk size: 32.1 KB)
+0032.169 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-themes.zip.tmp: 500 files added (on-disk size: 32.1 KB)
+0032.317 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (16.2 MB, 930 files batched, 501 (502) added so far); re-opening (prior size: 32.1 KB)
+0041.493 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-themes.zip.tmp: 600 files added (on-disk size: 5166.5 KB)
+0041.904 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-themes.zip.tmp: 700 files added (on-disk size: 5166.5 KB)
+0042.323 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-themes.zip.tmp: 800 files added (on-disk size: 5166.5 KB)
+0042.730 (0) Zip: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-themes.zip.tmp: 900 files added (on-disk size: 5166.5 KB)
+0050.256 (0) Created themes zip (0) - 15913.9 KB in 24.4 s (652.3 KB/s) (sha1: 52d004b034bbc4665b4258c283249328ef019e43, sha256: f0c02652a9b47421de9f4ff6239730309c1b7d7fbf728a75741eefd96b037062)
+0050.740 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0050.924 (0) Looking for candidates to backup in: C:\Users\codegirls\Desktop\Xampp\htdocs\jobknob/wp-content/uploads
+0051.075 (0) finding files: 2019: adding to list (1)
+0051.233 (0) finding files: et_temp: adding to list (2)
+0051.391 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0051.790 (0) Total entities for the zip file: 3 directories, 3 files (0 skipped as non-modified), 0 MB
+0052.445 (0) Created uploads zip (0) - 46.4 KB in 0.8 s (55.6 KB/s) (sha1: 74b368b088a050845a5c69bbc4e4200268e32dd9, sha256: e60844ca9ddfbfbdba34a987aa5e1ef9d3980d516c0d8a29ff69e97bf8bb2c48)
+0052.782 (0) Beginning backup of other directories found in the content directory (index: 0)
+0053.068 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0053.226 (0) Looking for candidates to backup in: C:\Users\codegirls\Desktop\Xampp\htdocs\jobknob/wp-content
+0053.386 (0) finding files: cache: skipping: excluded by options
+0053.532 (0) finding files: index.php: adding to list (1)
+0053.689 (0) finding files: plugins: skipping: this is the plugins directory
+0053.848 (0) finding files: themes: skipping: this is the themes directory
+0054.005 (0) finding files: updraft: skipping: this is the updraft directory
+0054.156 (0) finding files: upgrade: skipping: excluded by options
+0054.318 (0) finding files: uploads: skipping: this is the uploads directory
+0054.634 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0055.292 (0) Created others zip (0) - 0.1 KB in 0.8 s (0.2 KB/s) (sha1: 2aba5a5bc7b40b7cedd9ea2e1ef0a14b5cee7cf5, sha256: 996c34a6b63309734cdc375564f123479f56ab6bd0143a6b65500a4c49c4cea8)
+0055.983 (0) Saving backup status to database (elements: 8)
+0056.597 (0) Beginning creation of database dump (WordPress DB)
+0057.828 (0) Table jk_options: Total expected rows (approximate): 191
+0061.379 (0) Table jk_options: Total rows added: 190 in 3.40 seconds
+0061.542 (0) Table jk_options: finishing file (backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_options.table.gz - 139.6 KB)
+0062.234 (0) Table jk_users: Total expected rows (approximate): 0
+0063.063 (0) Table jk_users: Total rows added: 1 in 0.59 seconds
+0063.207 (0) Table jk_users: finishing file (backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_users.table.gz - 0.6 KB)
+0063.853 (0) Table jk_usermeta: Total expected rows (approximate): 19
+0064.570 (0) Table jk_usermeta: Total rows added: 19 in 0.56 seconds
+0064.732 (0) Table jk_usermeta: finishing file (backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_usermeta.table.gz - 0.9 KB)
+0065.408 (0) Table jk_commentmeta: Total expected rows (approximate): 0
+0065.985 (0) Table jk_commentmeta: Total rows added: 0 in 0.41 seconds
+0066.190 (0) Table jk_commentmeta: finishing file (backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_commentmeta.table.gz - 0.4 KB)
+0066.807 (0) Table jk_comments: Total expected rows (approximate): 0
+0067.515 (0) Table jk_comments: Total rows added: 1 in 0.56 seconds
+0067.671 (0) Table jk_comments: finishing file (backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_comments.table.gz - 0.7 KB)
+0068.327 (0) Table jk_links: Total expected rows (approximate): 0
+0068.908 (0) Table jk_links: Total rows added: 0 in 0.43 seconds
+0069.078 (0) Table jk_links: finishing file (backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_links.table.gz - 0.4 KB)
+0069.785 (0) Table jk_postmeta: Total expected rows (approximate): 11
+0070.530 (0) Table jk_postmeta: Total rows added: 11 in 0.59 seconds
+0070.696 (0) Table jk_postmeta: finishing file (backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_postmeta.table.gz - 0.8 KB)
+0071.320 (0) Table jk_posts: Total expected rows (approximate): 10
+0072.136 (0) Table jk_posts: Total rows added: 10 in 0.67 seconds
+0072.279 (0) Table jk_posts: finishing file (backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_posts.table.gz - 3.7 KB)
+0072.927 (0) Table jk_term_relationships: Total expected rows (approximate): 0
+0073.631 (0) Table jk_term_relationships: Total rows added: 1 in 0.54 seconds
+0073.788 (0) Table jk_term_relationships: finishing file (backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_term_relationships.table.gz - 0.4 KB)
+0074.398 (0) Table jk_term_taxonomy: Total expected rows (approximate): 0
+0075.452 (0) Table jk_term_taxonomy: Total rows added: 1 in 0.61 seconds
+0075.616 (0) Table jk_term_taxonomy: finishing file (backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_term_taxonomy.table.gz - 0.4 KB)
+0076.215 (0) Table jk_termmeta: Total expected rows (approximate): 0
+0076.870 (0) Table jk_termmeta: Total rows added: 0 in 0.51 seconds
+0077.053 (0) Table jk_termmeta: finishing file (backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_termmeta.table.gz - 0.4 KB)
+0077.685 (0) Table jk_terms: Total expected rows (approximate): 0
+0078.381 (0) Table jk_terms: Total rows added: 1 in 0.53 seconds
+0078.539 (0) Table jk_terms: finishing file (backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_terms.table.gz - 0.4 KB)
+0079.171 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_options.table.gz (1/12): adding to final database dump
+0079.426 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_users.table.gz (2/12): adding to final database dump
+0079.591 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_usermeta.table.gz (3/12): adding to final database dump
+0079.749 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_commentmeta.table.gz (4/12): adding to final database dump
+0079.966 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_comments.table.gz (5/12): adding to final database dump
+0080.137 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_links.table.gz (6/12): adding to final database dump
+0080.286 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_postmeta.table.gz (7/12): adding to final database dump
+0080.451 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_posts.table.gz (8/12): adding to final database dump
+0080.608 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_term_relationships.table.gz (9/12): adding to final database dump
+0080.793 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_term_taxonomy.table.gz (10/12): adding to final database dump
+0080.948 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_termmeta.table.gz (11/12): adding to final database dump
+0081.142 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db-table-jk_terms.table.gz (12/12): adding to final database dump
+0081.439 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db.gz: finished writing out complete database file (128 KB)
+0082.068 (0) Total database tables backed up: 12 (backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db.gz, size: 149045, sha1: a155f3993cbc38793bd64fbc25beaf5c3f48a305, sha256: 6b9d3e606f110e0fe5f3d8f0c8742ec712a8b85339b3fb6a45185ac0d91786d7)
+0083.353 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0083.520 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0083.670 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0083.826 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-others.zip: others: This file has not yet been successfully uploaded: will queue
+0083.982 (0) backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db.gz: db: This file has not yet been successfully uploaded: will queue
+0084.130 (0) Saving backup history. Total backup size: 22.4 MB
+0084.702 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0085.192 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0085.341 (0) No remote despatch: user chose no remote backup service
+0085.623 (0) Recording as successfully uploaded: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-plugins.zip
+0086.181 (0) Recording as successfully uploaded: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-themes.zip
+0086.639 (0) Recording as successfully uploaded: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-uploads.zip
+0087.103 (0) Recording as successfully uploaded: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-others.zip
+0087.579 (0) Recording as successfully uploaded: backup_2019-11-18-1554_JOBKNOB_cc03d951d027-db.gz
+0088.718 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0089.035 (0) Number of backup sets in history: 1; groups (db): 1
+0089.204 (0) Examining (for databases) backup set with group_id=0, nonce=cc03d951d027, datestamp=1574092444 (Nov 18 2019 15:54:04)
+0089.382 (0) This backup set is the backup set just made, so will not be deleted.
+0089.382 (0) Number of backup sets in history: 1; groups (files): 1
+0089.597 (0) Examining (for files) backup set with nonce=cc03d951d027, datestamp=1574092444 (Nov 18 2019 15:54:04)
+0089.597 (0) This backup set is the backup set just made, so will not be deleted.
+0089.784 (0) This backup set is the backup set just made, so will not be deleted.
+0089.784 (0) This backup set is the backup set just made, so will not be deleted.
+0089.785 (0) This backup set is the backup set just made, so will not be deleted.
+0089.785 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0089.937 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0090.837 (0) Resume backup (cc03d951d027, 0): finish run
+0091.600 (0) Decremented the semaphore (fd) by 1
+0091.959 (0) Semaphore (fd) unlocked
+0092.110 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0092.764 (0) No email will/can be sent - the user has not configured an email address.
+0092.909 (0) The backup apparently succeeded and is now complete
